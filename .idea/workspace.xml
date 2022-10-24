@@ -33,6 +33,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="universite" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,13 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666625133720</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exo 3">
+      <created>1666625496601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666625496601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="exo 3">
+      <created>1666625662319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666625662319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Interface exo 1" />
     <MESSAGE value="exo 1 question 1 et 2" />
     <MESSAGE value="exo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="exo 2" />
+    <MESSAGE value="exo 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo 3" />
   </component>
 </project>
