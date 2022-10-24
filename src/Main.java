@@ -16,7 +16,13 @@ public class Main {
         System.out.println(ajoutstring.somme("alors","non"));
         System.out.println(ajoutentier2.somme(45,36));
 
-        ToString<String> convert = (a) -> ;
+        ToString<List<String>> convert    = (a -> {
+            String c = "";
+            for (String b : a){
+                c += a.toString();
+            }
+            return c;
+        });
     }
     public static int somme(int a, int b){
         return a + b;

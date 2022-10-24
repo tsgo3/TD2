@@ -1,3 +1,4 @@
+@FunctionalInterface
 public interface ToString <T>{
-    String tostring(T a);
+    T tostring(T a);
 }
